@@ -29,5 +29,5 @@
 Декрементировать count необходимо для правильного заполнения массива.
 
 * Метод PrintArray - позволяет вывести результат на экран.
-![Блок-схема](2023-03-11_15-51-53.png)
-![2023-03-11_15-51-53](https://user-images.githubusercontent.com/122710001/224473463-eeafc20d-d13a-4692-ae9a-2a22aa6e5c23.png)
+![Блок- схема](https://user-images.githubusercontent.com/122710001/224473463-eeafc20d-d13a-4692-ae9a-2a22aa6e5c23.png)
+
